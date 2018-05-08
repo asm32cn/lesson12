@@ -1,0 +1,2 @@
+E:\PASCAL\sys\public\Users\PASCAL\DESK\f\CODE\CODE-asp.net\lesson12\App_Data\lesson12.sqlite3
+E:\\PASCAL\\sys\\public\\Users\\PASCAL\\DESK\\f\\CODE\\CODE-asp.net\\lesson12\\App_Data\\lesson12.sqlite3
