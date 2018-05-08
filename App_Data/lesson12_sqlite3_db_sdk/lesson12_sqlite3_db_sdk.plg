@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: lesson12_sqlite3_db_sdk - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBA1.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib sqlite3.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/lesson12-sqlite3-db-sdk.pdb" /machine:I386 /out:"lesson12-sqlite3-db-sdk.exe" 
+".\Release\lesson12_sqlite3_db_sdk.obj"
+".\Release\StdAfx.obj"
+".\Release\lesson12_sqlite3_db_sdk.res"
+]
+Creating command line "link.exe @H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPBA1.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+lesson12-sqlite3-db-sdk.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
