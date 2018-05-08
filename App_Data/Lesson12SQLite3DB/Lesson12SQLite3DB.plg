@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Lesson12SQLite3DB - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/Lesson12SQLite3DB.res" /d "NDEBUG" /d "_AFXDLL" "E:\PASCAL\sys\public\Users\PASCAL\DESK\f\CODE\CODE-asp.net\lesson12\App_Data\Lesson12SQLite3DB\Lesson12SQLite3DB.rc"" 
+Creating temporary file "H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP643.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Lesson12SQLite3DB.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\PASCAL\sys\public\Users\PASCAL\DESK\f\CODE\CODE-asp.net\lesson12\App_Data\Lesson12SQLite3DB\DbSqlite.cpp"
+"E:\PASCAL\sys\public\Users\PASCAL\DESK\f\CODE\CODE-asp.net\lesson12\App_Data\Lesson12SQLite3DB\Lesson12SQLite3DB.cpp"
+"E:\PASCAL\sys\public\Users\PASCAL\DESK\f\CODE\CODE-asp.net\lesson12\App_Data\Lesson12SQLite3DB\Lesson12SQLite3DBDlg.cpp"
+]
+Creating command line "cl.exe @H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP643.tmp" 
+Creating temporary file "H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP644.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Lesson12SQLite3DB.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\PASCAL\sys\public\Users\PASCAL\DESK\f\CODE\CODE-asp.net\lesson12\App_Data\Lesson12SQLite3DB\StdAfx.cpp"
+]
+Creating command line "cl.exe @H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP644.tmp" 
+Creating temporary file "H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP645.tmp" with contents
+[
+w32SQLite3.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Lesson12SQLite3DB_.pdb" /machine:I386 /out:"Lesson12SQLite3DB_.exe" 
+".\Release\DbSqlite.obj"
+".\Release\Lesson12SQLite3DB.obj"
+".\Release\Lesson12SQLite3DBDlg.obj"
+".\Release\StdAfx.obj"
+".\Release\Lesson12SQLite3DB.res"
+]
+Creating command line "link.exe @H:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP645.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+DbSqlite.cpp
+Lesson12SQLite3DB.cpp
+MCBS Selected
+Lesson12SQLite3DBDlg.cpp
+Generating Code...
+MCBS Selected
+Linking...
+
+
+
+<h3>Results</h3>
+Lesson12SQLite3DB_.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
