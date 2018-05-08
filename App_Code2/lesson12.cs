@@ -1,0 +1,3 @@
+namespace lesson12 {
+
+}
